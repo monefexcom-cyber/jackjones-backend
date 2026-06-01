@@ -1,0 +1,8 @@
+{
+  "name": "jackjones-backend",
+  "version": "1.0.0",
+  "main": "jackjones-server.js",
+  "scripts": {
+    "start": "node jackjones-server.js"
+  }
+}
